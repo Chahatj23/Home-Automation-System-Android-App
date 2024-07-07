@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Home Automation System</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/parse</string>
+    <string name="back4app_app_id">rSTWtXV9f6yJtuE8ZWSLHkUMQcGpj0dHxQ7CokEp</string>
+    <string name="back4app_client_key">ruCgjc0EmMUYZWqy8lcjX6yPwSPDuRQFbD6sQuSa</string>
+    <string name="default_notification_channel_id">notification_channel_id</string>>
+
+</resources>

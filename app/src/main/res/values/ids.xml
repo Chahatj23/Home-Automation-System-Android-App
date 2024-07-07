@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edit_text_email" type="id" />
+    <item name="edit_text_password" type="id" />
+    <item name="button_login" type="id" />
+    <item name="button_register" type="id" />
+</resources>

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "950370101945",
+    "firebase_url": "https://doorlock-f45f3-default-rtdb.firebaseio.com",
+    "project_id": "doorlock-f45f3",
+    "storage_bucket": "doorlock-f45f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950370101945:android:f71047ecd1c93742fec968",
+        "android_client_info": {
+          "package_name": "com.doorlock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHbEUe2hDc41e7XL5Zo94DhSn6NRLGbUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950370101945:android:10ae018565ea6e29fec968",
+        "android_client_info": {
+          "package_name": "com.example.homeautomationsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHbEUe2hDc41e7XL5Zo94DhSn6NRLGbUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

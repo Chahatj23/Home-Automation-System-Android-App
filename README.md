@@ -1,6 +1,3 @@
-Sure! Here's an enhanced version of the README with emojis and more engaging text to make it more creative and attractive.
-
----
 
 # 🏠 Home Automation System
 
